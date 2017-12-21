@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_trade_history_buttom.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_trade_history_buttom.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_textview.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_textview.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_layout_actionbar.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_layout_actionbar.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_gridpasswordview.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_gridpasswordview.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_p.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_p.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_trans_repeat_dialog.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_trans_repeat_dialog.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_item_trade_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_item_trade_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_rp_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_rp_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_trade_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_trade_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_add_card_first.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_add_card_first.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_add_bank_card.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_add_bank_card.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_trans_tip_dialog.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_trans_tip_dialog.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_add_card_second.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_add_card_second.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_my_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_my_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_fragment_red_packet_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_fragment_red_packet_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_header_send_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_header_send_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_trans_succ.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_trans_succ.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_dialog_pwd_error.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_dialog_pwd_error.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_webview.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_webview.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_dialog_paytype_balance_item.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_dialog_paytype_balance_item.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_layout_line_959595.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_layout_line_959595.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_rp_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_rp_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_trade_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_trade_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_rp_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_rp_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_item_rp_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_item_rp_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_dialog_progress.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_item_rp_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_item_rp_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_header_rp_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_header_rp_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_trade_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_trade_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_title_bar.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_title_bar.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_ss.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_ss.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_bank_card_list.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_bank_card_list.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_trans_account.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_trans_account.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_open_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_open_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_bank_setting.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_bank_setting.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_acf.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_acf.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_rp_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_rp_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_limit_dialog.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_limit_dialog.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_header_rp_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_header_rp_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_dialog_paytype.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_dialog_paytype.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_list_buttom.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_list_buttom.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_sg.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_sg.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_header_send_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_header_send_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_pwdh5.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_pwdh5.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_dialog_input_pwd.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_dialog_input_pwd.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_my_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_my_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_fragment_trade_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_fragment_trade_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_trans_pay.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_trans_pay.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_fragment_red_packet_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_fragment_red_packet_history.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_acs.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_acs.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_floating_label_text_view.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_floating_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_fragment_getdeposit.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_fragment_getdeposit.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_support_bank_card.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_support_bank_card.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_account_info.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_account_info.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_getdeposit.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_getdeposit.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_select_pay_type.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_select_pay_type.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_recharge.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_recharge.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_adapter_banklist_item.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_adapter_banklist_item.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_authen.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_authen.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_new_card.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_new_card.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_setting_bank_cark_list.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_setting_bank_cark_list.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_select_change.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_select_change.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_authen.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_authen.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_item_list_buttom.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_item_list_buttom.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_b_divider.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_b_divider.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_dialog_select_pay_type.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_dialog_select_pay_type.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_header_receive_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_header_receive_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_pwdh5.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_pwdh5.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_dialog_open_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_dialog_open_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_trans_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_trans_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_my_bank_card.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_my_bank_card.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_header_receive_rp.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_header_receive_rp.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_dialog_paytype_old_card_item.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_dialog_paytype_old_card_item.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_trade_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_trade_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_my_wallet.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_my_wallet.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_layout_titlebar.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_layout_titlebar.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_layout_line.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_layout_line.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_fragment_trade_detail.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_fragment_trade_detail.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_item_bank_cark_list.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_item_bank_cark_list.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_w_activity_secure_setting.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_w_activity_secure_setting.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/layout/jrmf_rp_activity_trade_history.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/layout/jrmf_rp_activity_trade_history.xml"
+    }
+]

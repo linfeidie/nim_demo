@@ -1,0 +1,4 @@
+#Tue Dec 19 11:38:11 CST 2017
+base.0=/Users/bobzheng/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/22
+renamed.0=classes.dex
+file.0=/Users/bobzheng/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/22/classes.dex

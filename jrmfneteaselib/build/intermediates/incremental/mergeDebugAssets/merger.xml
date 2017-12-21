@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/assets"/><source path="/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/src/debug/assets"/></dataSet></merger>

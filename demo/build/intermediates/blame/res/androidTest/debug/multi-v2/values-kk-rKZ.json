@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bobzheng/Downloads/nim_demo/demo/build/intermediates/res/merged/androidTest/debug/values-kk-rKZ/values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/HMS-SDK-2.4.0.300.aar/54f2433d6f19d989e9934a80f67feab6/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,182,233,306,399,466,511,609,716,810,918,967,1101,1159,1208,1379",
+                        "endColumns": "47,78,50,72,92,66,44,97,106,93,107,48,133,57,48,170,69",
+                        "endOffsets": "98,177,228,301,394,461,506,604,711,805,913,962,1096,1154,1203,1374,1444"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bobzheng/Downloads/nim_demo/demo/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/HMS-SDK-2.4.0.300.aar/54f2433d6f19d989e9934a80f67feab6/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,182,233,306,399,466,511,609,716,810,918,967,1101,1159,1208,1379",
+                        "endColumns": "47,78,50,72,92,66,44,97,106,93,107,48,133,57,48,170,69",
+                        "endOffsets": "98,177,228,301,394,461,506,604,711,805,913,962,1096,1154,1203,1374,1444"
+                    }
+                }
+            ]
+        }
+    ]
+}
