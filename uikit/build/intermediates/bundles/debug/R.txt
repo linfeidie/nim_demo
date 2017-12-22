@@ -303,7 +303,7 @@ int attr progressBarStyle 0x7f04011b
 int attr queryBackground 0x7f04011c
 int attr queryHint 0x7f04011d
 int attr radioButtonStyle 0x7f04011e
-int attr radius 0x7f04011f
+int attr radiuslin 0x7f04011f
 int attr ratingBarStyle 0x7f040120
 int attr ratingBarStyleIndicator 0x7f040121
 int attr ratingBarStyleSmall 0x7f040122
@@ -2846,7 +2846,7 @@ int[] styleable LoadingView { 0x7f04002a, 0x7f0400f0, 0x7f040106, 0x7f04011f, 0x
 int styleable LoadingView_animation_speed 0
 int styleable LoadingView_left_ball_color 1
 int styleable LoadingView_need_animation 2
-int styleable LoadingView_radius 3
+int styleable LoadingView_radiuslin 3
 int styleable LoadingView_right_ball_color 4
 int[] styleable MenuGroup { 0x010101e0, 0x0101000e, 0x010100d0, 0x010101de, 0x010101df, 0x01010194 }
 int styleable MenuGroup_android_checkableBehavior 0

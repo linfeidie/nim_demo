@@ -319,7 +319,7 @@ public final class R {
         public static int queryBackground = 0x7f04011c;
         public static int queryHint = 0x7f04011d;
         public static int radioButtonStyle = 0x7f04011e;
-        public static int radius = 0x7f04011f;
+        public static int radiuslin = 0x7f04011f;
         public static int ratingBarStyle = 0x7f040120;
         public static int ratingBarStyleIndicator = 0x7f040121;
         public static int ratingBarStyleSmall = 0x7f040122;
@@ -2886,7 +2886,7 @@ public final class R {
         public static int LoadingView_animation_speed = 0;
         public static int LoadingView_left_ball_color = 1;
         public static int LoadingView_need_animation = 2;
-        public static int LoadingView_radius = 3;
+        public static int LoadingView_radiuslin = 3;
         public static int LoadingView_right_ball_color = 4;
         public static int[] MenuGroup = { 0x010101e0, 0x0101000e, 0x010100d0, 0x010101de, 0x010101df, 0x01010194 };
         public static int MenuGroup_android_checkableBehavior = 0;

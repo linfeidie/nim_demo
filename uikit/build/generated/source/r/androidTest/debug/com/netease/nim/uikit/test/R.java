@@ -2231,7 +2231,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a floating point value, such as "<code>1.2</code>".
          */
-        public static final int radius=0x7f01011c;
+        public static final int radiuslin=0x7f01011c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -5109,8 +5109,6 @@ containing a value of this type.
         public static final int dialog_message_text_style=0x7f0a0194;
         public static final int dialog_title_text_style=0x7f0a0195;
         public static final int easy_dialog_edit_text_style=0x7f0a0196;
-        /**  后面的activity变暗 
-         */
         public static final int easy_dialog_style=0x7f0a0197;
         public static final int edit_text_style=0x7f0a0198;
         public static final int grid_view=0x7f0a0199;
@@ -11547,13 +11545,13 @@ containing a value of this type.
            <tr><td><code>{@link #LoadingView_animation_speed com.netease.nim.uikit.test:animation_speed}</code></td><td></td></tr>
            <tr><td><code>{@link #LoadingView_left_ball_color com.netease.nim.uikit.test:left_ball_color}</code></td><td></td></tr>
            <tr><td><code>{@link #LoadingView_need_animation com.netease.nim.uikit.test:need_animation}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingView_radius com.netease.nim.uikit.test:radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingView_radiuslin com.netease.nim.uikit.test:radiuslin}</code></td><td></td></tr>
            <tr><td><code>{@link #LoadingView_right_ball_color com.netease.nim.uikit.test:right_ball_color}</code></td><td></td></tr>
            </table>
            @see #LoadingView_animation_speed
            @see #LoadingView_left_ball_color
            @see #LoadingView_need_animation
-           @see #LoadingView_radius
+           @see #LoadingView_radiuslin
            @see #LoadingView_right_ball_color
          */
         public static final int[] LoadingView = {
@@ -11595,16 +11593,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int LoadingView_need_animation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.netease.nim.uikit.test.R.attr#radius}
+          <p>This symbol is the offset where the {@link com.netease.nim.uikit.test.R.attr#radiuslin}
           attribute's value can be found in the {@link #LoadingView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a floating point value, such as "<code>1.2</code>".
-          @attr name com.netease.nim.uikit.test:radius
+          @attr name com.netease.nim.uikit.test:radiuslin
         */
-        public static final int LoadingView_radius = 0;
+        public static final int LoadingView_radiuslin = 0;
         /**
           <p>This symbol is the offset where the {@link com.netease.nim.uikit.test.R.attr#right_ball_color}
           attribute's value can be found in the {@link #LoadingView} array.

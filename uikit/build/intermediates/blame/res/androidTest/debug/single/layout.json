@@ -12,12 +12,12 @@
         "source": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_popup_menu_list_black_item.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/nim_message_item_audio.xml",
-        "source": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_message_item_audio.xml"
-    },
-    {
         "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/nim_crop_image_activity.xml",
         "source": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_crop_image_activity.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/nim_message_item_audio.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_message_item_audio.xml"
     },
     {
         "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/nim_msg_list_fetch_load_more.xml",
@@ -40,12 +40,12 @@
         "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/82da4d415aa6b9df497cac79c1973e6d/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/nim_preview_image_layout_multi_touch.xml",
-        "source": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_preview_image_layout_multi_touch.xml"
-    },
-    {
         "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/nim_preview_image_layout_multi_touch.xml",
+        "source": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/layout/nim_preview_image_layout_multi_touch.xml"
     },
     {
         "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item.xml",

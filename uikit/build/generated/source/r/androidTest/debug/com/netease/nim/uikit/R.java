@@ -319,7 +319,7 @@ public final class R {
         public static final int queryBackground = 0x7f01014d;
         public static final int queryHint = 0x7f010144;
         public static final int radioButtonStyle = 0x7f0100cf;
-        public static final int radius = 0x7f01011c;
+        public static final int radiuslin = 0x7f01011c;
         public static final int ratingBarStyle = 0x7f0100d0;
         public static final int ratingBarStyleIndicator = 0x7f0100d1;
         public static final int ratingBarStyleSmall = 0x7f0100d2;
@@ -2883,7 +2883,7 @@ public final class R {
         public static final int ListPopupWindow_android_dropDownHorizontalOffset = 0;
         public static final int ListPopupWindow_android_dropDownVerticalOffset = 1;
         public static final int[] LoadingView = { 0x7f01011c, 0x7f01011d, 0x7f01011e, 0x7f01011f, 0x7f010120 };
-        public static final int LoadingView_radius = 0;
+        public static final int LoadingView_radiuslin = 0;
         public static final int LoadingView_left_ball_color = 1;
         public static final int LoadingView_right_ball_color = 2;
         public static final int LoadingView_animation_speed = 3;
