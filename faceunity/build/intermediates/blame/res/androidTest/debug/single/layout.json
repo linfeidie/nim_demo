@@ -188,10 +188,6 @@
         "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/842a512c9fbaa71fb106a1203b635b4d/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/layout/notification_template_custom_big.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/82da4d415aa6b9df497cac79c1973e6d/res/layout/notification_template_custom_big.xml"
-    },
-    {
         "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/layout/abc_alert_dialog_title_material.xml"
     }

@@ -1385,7 +1385,7 @@ int id nickname_container 0x7f0f00ca
 int id nim_message_item_text_body 0x7f0f015b
 int id none 0x7f0f0028
 int id normal 0x7f0f002a
-int id notification_background 0x7f0f01d1
+int id notification_background 0x7f0f01d0
 int id notification_main_column 0x7f0f01cb
 int id notification_main_column_container 0x7f0f01ca
 int id number_edit 0x7f0f0128
@@ -1436,7 +1436,7 @@ int id refresh_loading_indicator 0x7f0f0122
 int id refreshing_indicator 0x7f0f01b1
 int id regular_team_nickname 0x7f0f00d3
 int id right 0x7f0f0047
-int id right_icon 0x7f0f01d0
+int id right_icon 0x7f0f01d1
 int id right_side 0x7f0f01cc
 int id rlCtrl 0x7f0f00fb
 int id rlRoot 0x7f0f00eb

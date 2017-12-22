@@ -827,7 +827,7 @@ public final class R {
         public static final int multiply = 0x7f0b0018;
         public static final int none = 0x7f0b0013;
         public static final int normal = 0x7f0b000f;
-        public static final int notification_background = 0x7f0b0097;
+        public static final int notification_background = 0x7f0b0096;
         public static final int notification_main_column = 0x7f0b0091;
         public static final int notification_main_column_container = 0x7f0b0090;
         public static final int parentPanel = 0x7f0b003f;
@@ -836,7 +836,7 @@ public final class R {
         public static final int radio = 0x7f0b004f;
         public static final int red_level_seekbar = 0x7f0b007d;
         public static final int red_level_select_block = 0x7f0b007c;
-        public static final int right_icon = 0x7f0b0096;
+        public static final int right_icon = 0x7f0b0097;
         public static final int right_side = 0x7f0b0092;
         public static final int screen = 0x7f0b0019;
         public static final int scrollIndicatorDown = 0x7f0b0045;

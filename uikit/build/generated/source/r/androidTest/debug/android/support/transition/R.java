@@ -88,11 +88,11 @@ public final class R {
         public static final int line3 = 0x7f0f000c;
         public static final int media_actions = 0x7f0f01c8;
         public static final int normal = 0x7f0f002a;
-        public static final int notification_background = 0x7f0f01d1;
+        public static final int notification_background = 0x7f0f01d0;
         public static final int notification_main_column = 0x7f0f01cb;
         public static final int notification_main_column_container = 0x7f0f01ca;
         public static final int parent_matrix = 0x7f0f000d;
-        public static final int right_icon = 0x7f0f01d0;
+        public static final int right_icon = 0x7f0f01d1;
         public static final int right_side = 0x7f0f01cc;
         public static final int save_image_matrix = 0x7f0f0010;
         public static final int save_non_transition_alpha = 0x7f0f0011;

@@ -1381,7 +1381,7 @@ public final class R {
         public static final int nim_message_item_text_body = 0x7f0f015b;
         public static final int none = 0x7f0f0028;
         public static final int normal = 0x7f0f002a;
-        public static final int notification_background = 0x7f0f01d1;
+        public static final int notification_background = 0x7f0f01d0;
         public static final int notification_main_column = 0x7f0f01cb;
         public static final int notification_main_column_container = 0x7f0f01ca;
         public static final int number_edit = 0x7f0f0128;
@@ -1432,7 +1432,7 @@ public final class R {
         public static final int refreshing_indicator = 0x7f0f01b1;
         public static final int regular_team_nickname = 0x7f0f00d3;
         public static final int right = 0x7f0f0047;
-        public static final int right_icon = 0x7f0f01d0;
+        public static final int right_icon = 0x7f0f01d1;
         public static final int right_side = 0x7f0f01cc;
         public static final int rlCtrl = 0x7f0f00fb;
         public static final int rlRoot = 0x7f0f00eb;

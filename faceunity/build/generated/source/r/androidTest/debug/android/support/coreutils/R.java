@@ -80,10 +80,10 @@ public final class R {
         public static final int line1 = 0x7f0b0005;
         public static final int line3 = 0x7f0b0006;
         public static final int normal = 0x7f0b000f;
-        public static final int notification_background = 0x7f0b0097;
+        public static final int notification_background = 0x7f0b0096;
         public static final int notification_main_column = 0x7f0b0091;
         public static final int notification_main_column_container = 0x7f0b0090;
-        public static final int right_icon = 0x7f0b0096;
+        public static final int right_icon = 0x7f0b0097;
         public static final int right_side = 0x7f0b0092;
         public static final int text = 0x7f0b000a;
         public static final int text2 = 0x7f0b000b;
