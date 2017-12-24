@@ -2668,6 +2668,8 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f0800a9;
         public static final int Animation_AppCompat_DropDownUp=0x7f0800aa;
         public static final int Animation_AppCompat_Tooltip=0x7f0800ab;
+        /**  Customize your theme here. 
+         */
         public static final int AppTheme=0x7f0800ac;
         public static final int Base_AlertDialog_AppCompat=0x7f0800ad;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0800ae;
@@ -2827,6 +2829,8 @@ containing a value of this type.
         public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f08007d;
         public static final int Base_Widget_AppCompat_Toolbar=0x7f0800a6;
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f08007e;
+        /**  Customize your theme here. 
+         */
         public static final int FullScreenTheme=0x7f0800da;
         public static final int Platform_AppCompat=0x7f08001e;
         public static final int Platform_AppCompat_Light=0x7f08001f;
