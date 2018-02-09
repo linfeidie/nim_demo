@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.amap.api:poisearchmodule-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/poisearchmodule-1.1.0.aar/39d12439d5eeb91a278e4c727fe49c5d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/poisearchmodule-1.1.0.aar/39d12439d5eeb91a278e4c727fe49c5d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amap.api/poisearchmodule/1.1.0/a1bd045717267b1aab1a525e476adc84555f4e5a/poisearchmodule-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
