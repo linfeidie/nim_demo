@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="nim-rts-4.5.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/demo/libs/nim-rts-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/carpool/libs/nim-rts-4.5.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

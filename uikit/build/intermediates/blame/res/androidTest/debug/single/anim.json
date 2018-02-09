@@ -1,66 +1,66 @@
 [
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/tooltip_exit.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/tooltip_exit.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/anim/design_snackbar_out.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/anim/design_snackbar_in.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_fade_out.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_fade_in.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/tooltip_enter.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/tooltip_enter.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/tooltip_enter.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/tooltip_enter.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/anim/design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/tooltip_exit.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/anim/abc_slide_out_top.xml"
     }
 ]

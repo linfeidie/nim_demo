@@ -39,12 +39,15 @@ dependencies {
     api("com.android.support:support-v4:${V4_SUPPORT_VERSION}")
     api("com.android.support:design:${DESIGIN_SUPPORT_VERSION}")
     api("com.android.support.constraint:constraint-layout:${CONSTRAIT_SUPPORT_VERSION}")
-
     api 'me.everything:overscroll-decor-android:1.0.4'
     api "me.leolin:ShortcutBadger:1.1.17@aar"
-
-    api 'com.github.bumptech.glide:glide:4.2.0'
-    annotationProcessor 'com.github.bumptech.glide:compiler:4.2.0'
+    //zs annotationProcessor 'com.github.bumptech.glide:compiler:4.2.0'
     api 'jp.wasabeef:glide-transformations:3.0.1'
-    //api 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1' // if you want to use the Glide GPU Filters
+    //api 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1' // if you want to use the Glide GPU Filters
+    compile files('libs/SocialSDK_facebook.jar')
+    compile files('libs/SocialSDK_WeChat_Simplify.jar')
+    compile files('libs/umeng_social_api.jar')
+    compile files('libs/umeng_social_net.jar')
+    compile files('libs/umeng_social_tool.jar')
+    api 'com.github.bumptech.glide:glide:3.7.0'
 }

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carpool/carpool.iml" filepath="$PROJECT_DIR$/carpool/carpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carpool_android 2.iml" filepath="$PROJECT_DIR$/carpool_android 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carpool/demo.iml" filepath="$PROJECT_DIR$/carpool/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/faceunity/faceunity.iml" filepath="$PROJECT_DIR$/faceunity/faceunity.iml" />
       <module fileurl="file://$PROJECT_DIR$/jrmfneteaselib/jrmfneteaselib.iml" filepath="$PROJECT_DIR$/jrmfneteaselib/jrmfneteaselib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nim_demo.iml" filepath="$PROJECT_DIR$/nim_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/uikit/uikit.iml" filepath="$PROJECT_DIR$/uikit/uikit.iml" />
     </modules>
   </component>

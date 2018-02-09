@@ -1,14 +1,20 @@
 package com.netease.nim.uikit.business.team.activity;
 
 import android.app.Activity;
+import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.database.Cursor;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.provider.ContactsContract;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.AbsListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -36,6 +42,7 @@ import com.netease.nim.uikit.common.activity.UI;
 import com.netease.nim.uikit.common.adapter.TAdapterDelegate;
 import com.netease.nim.uikit.common.adapter.TViewHolder;
 import com.netease.nim.uikit.common.media.picker.PickImageHelper;
+import com.netease.nim.uikit.common.ui.CarpoolDialog.CustomDialog;
 import com.netease.nim.uikit.common.ui.dialog.DialogMaker;
 import com.netease.nim.uikit.common.ui.dialog.MenuDialog;
 import com.netease.nim.uikit.common.ui.imageview.HeadImageView;
@@ -57,11 +64,20 @@ import com.netease.nimlib.sdk.team.constant.TeamUpdateModeEnum;
 import com.netease.nimlib.sdk.team.constant.VerifyTypeEnum;
 import com.netease.nimlib.sdk.team.model.Team;
 import com.netease.nimlib.sdk.team.model.TeamMember;
+import com.umeng.socialize.ShareAction;
+import com.umeng.socialize.ShareContent;
+import com.umeng.socialize.UMShareAPI;
+import com.umeng.socialize.UMShareListener;
+import com.umeng.socialize.bean.SHARE_MEDIA;
+import com.umeng.socialize.media.UMImage;
+import com.umeng.socialize.media.UMWeb;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * 高级群群资料页
@@ -76,6 +92,9 @@ public class AdvancedTeamInfoActivity extends UI implements
     private static final int REQUEST_PICK_ICON = 104;
 
     private static final int ICON_TIME_OUT = 30000;
+
+    private static final int REQUEST_CODE_CONTENT = 1;
+    private static final int REQUEST_CODE_MOBILE =1 ;
 
     // constant
     private static final String TAG = "RegularTeamInfoActivity";
@@ -104,6 +123,8 @@ public class AdvancedTeamInfoActivity extends UI implements
     private List<String> managerList;
     private UserInfoObserver userInfoObserver;
     private AbortableFuture<String> uploadFuture;
+
+    private Dialog ActionDialog;
 
     // view
     private View headerLayout;
@@ -143,6 +164,9 @@ public class AdvancedTeamInfoActivity extends UI implements
     // state
     private boolean isSelfAdmin = false;
     private boolean isSelfManager = false;
+
+    private UMImage imageurl;
+    private UMWeb umWeb = new UMWeb(Defaultcontent.carpool_down);;
 
     public static void start(Context context, String tid) {
         Intent intent = new Intent();
@@ -233,9 +257,41 @@ public class AdvancedTeamInfoActivity extends UI implements
                 String path = data.getStringExtra(Extras.EXTRA_FILE_PATH);
                 updateTeamIcon(path);
                 break;
+            case REQUEST_CODE_MOBILE:
+                if (resultCode == RESULT_OK) {
+                    Uri contactData = data.getData();
+                    Cursor cursor = getContentResolver().query(contactData, null, null, null, null);
+                    cursor.moveToFirst();
+                    String phone = this.getContactPhone(cursor);
+                    //打开短信app
+                    Toast.makeText(this,phone,Toast.LENGTH_SHORT).show();
+                    if (TextUtils.isEmpty(phone)&&phone.equalsIgnoreCase("")){
+                        Toast.makeText(this,"电话号码为空",Toast.LENGTH_SHORT).show();
+                        return;
+                    }
+                    SharedPreferences sp = getSharedPreferences("userinfo", Context.MODE_PRIVATE);
+                    String token=sp.getString("token","");
+                    if(TextUtils.isEmpty(token)&&token.equalsIgnoreCase("")){
+                        Toast.makeText(this,"token为空",Toast.LENGTH_SHORT).show();
+                        return;
+                    }
+                    sendContactShare(phone,token);
+                }
+                break;
+
             default:
                 break;
         }
+    }
+    //短信发送邀请  验证码
+    private void sendContactShare(String phone,String token) {
+
+
+        Intent intent = new Intent("com.unknow.jason.broadcasttest.MY_BROADCAST");
+        intent.putExtra("phone",phone);
+        intent.putExtra("token",token);
+        sendBroadcast(intent);
+
     }
 
     @Override
@@ -249,7 +305,8 @@ public class AdvancedTeamInfoActivity extends UI implements
         }
 
         registerObservers(false);
-
+        //友盟
+        UMShareAPI.get(this).release();
         super.onDestroy();
     }
 
@@ -785,8 +842,61 @@ public class AdvancedTeamInfoActivity extends UI implements
      */
     @Override
     public void onAddMember() {
-        ContactSelectActivity.Option option = TeamHelper.getContactSelectOption(memberAccounts);
-        NimUIKit.startContactSelector(AdvancedTeamInfoActivity.this, option, REQUEST_CODE_CONTACT_SELECT);
+        if (ActionDialog == null) {
+            CustomDialog.Builder builder = new CustomDialog.Builder(AdvancedTeamInfoActivity.this);
+            ActionDialog =
+                    builder.cancelTouchout(true)
+                            .view(R.layout.dialog_share)
+//                            .widthpx(WindowManager.LayoutParams.WRAP_CONTENT)
+//                            .heightdp(WindowManager.LayoutParams.WRAP_CONTENT)
+                            .widthpx(WindowManager.LayoutParams.MATCH_PARENT)
+                            .heightpx(WindowManager.LayoutParams.WRAP_CONTENT)
+                            .style(R.style.Dialog)
+                            .addViewOnclick(R.id.tv_select_contact, new View.OnClickListener() {
+                                @Override
+                                public void onClick(View view) {
+                                    // TODO: 11/1/18 选择联系人
+                                    ContactSelectActivity.Option option = TeamHelper.getContactSelectOption(memberAccounts);
+                                    NimUIKit.startContactSelector(AdvancedTeamInfoActivity.this, option, REQUEST_CODE_CONTACT_SELECT);
+                                    ActionDialog.dismiss();
+                                }
+                            }).addViewOnclick(R.id.iv_dialog_contect, new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            // TODO: 11/1/18 通讯录导入
+                            showContactShare();
+                            ActionDialog.dismiss();
+                            //Toast.makeText(AdvancedTeamInfoActivity.this,R.string.address_list_input,Toast.LENGTH_SHORT).show();
+                        }
+                    }).addViewOnclick(R.id.iv_dialog_wechat, new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            // TODO: 11/1/18  微信分享
+                            showWeChatshare();
+                            ActionDialog.dismiss();
+                            //Toast.makeText(AdvancedTeamInfoActivity.this,"微信分享",Toast.LENGTH_SHORT).show();
+                        }
+                    }).addViewOnclick(R.id.iv_dialog_facebook, new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            // TODO: 11/1/18 facebook  分享
+                            ActionDialog.dismiss();
+                            showFaceBookShare();
+                            //Toast.makeText(AdvancedTeamInfoActivity.this,"facebook",Toast.LENGTH_SHORT).show();
+                        }
+                    }).addViewOnclick(R.id.tv_dialog_cancel, new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            // TODO: 11/1/18 取消
+                            ActionDialog.dismiss();
+                            //Toast.makeText(AdvancedTeamInfoActivity.this,"facebook",Toast.LENGTH_SHORT).show();
+                        }
+                    }).isBottom(true)
+                            .build();
+        }
+
+        ActionDialog.show();
+
     }
 
     /**
@@ -1469,4 +1579,107 @@ public class AdvancedTeamInfoActivity extends UI implements
         uploadFuture = null;
         DialogMaker.dismissProgressDialog();
     }
+    //短信分享
+    private void showContactShare(){
+        Intent intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
+        startActivityForResult(intent, REQUEST_CODE_CONTENT);
+    }
+    //微信分享
+    private void showWeChatshare(){
+        //umWeb = new UMWeb(Defaultcontent.carpool_down);
+        new ShareAction(AdvancedTeamInfoActivity.this)
+                .setPlatform(SHARE_MEDIA.WEIXIN)//传入平台
+                .withMedia(umWeb)//分享内容
+                .setCallback(shareListener)//回调监听器
+                .share();
+    }
+    //FaceBook分享
+    private void showFaceBookShare(){
+        //imageurl = new UMImage(this,Defaultcontent.imageurl);
+        //umWeb = new UMWeb(Defaultcontent.carpool_down);
+
+        new ShareAction(AdvancedTeamInfoActivity.this)
+                .setPlatform(SHARE_MEDIA.FACEBOOK)//传入平台
+                //.withText("hello")//分享内容
+                //.withMedia(imageurl)
+                .withMedia(umWeb)
+                .setCallback(shareListener)//回调监听器
+                .share();
+    }
+    private UMShareListener shareListener = new UMShareListener() {
+        /**
+         * @descrption 分享开始的回调
+         * @param platform 平台类型
+         */
+        @Override
+        public void onStart(SHARE_MEDIA platform) {
+
+        }
+
+        /**
+         * @descrption 分享成功的回调
+         * @param platform 平台类型
+         */
+        @Override
+        public void onResult(SHARE_MEDIA platform) {
+            Toast.makeText(AdvancedTeamInfoActivity.this,"成功了",Toast.LENGTH_LONG).show();
+        }
+
+        /**
+         * @descrption 分享失败的回调
+         * @param platform 平台类型
+         * @param t 错误原因
+         */
+        @Override
+        public void onError(SHARE_MEDIA platform, Throwable t) {
+            Toast.makeText(AdvancedTeamInfoActivity.this,"失败"+t.getMessage(),Toast.LENGTH_LONG).show();
+        }
+
+        /**
+         * @descrption 分享取消的回调
+         * @param platform 平台类型
+         */
+        @Override
+        public void onCancel(SHARE_MEDIA platform) {
+            Toast.makeText(AdvancedTeamInfoActivity.this,"取消了",Toast.LENGTH_LONG).show();
+
+        }
+    };
+    private String getContactPhone(Cursor cursor) {
+        int phoneColumn = cursor.getColumnIndex(ContactsContract.Contacts.HAS_PHONE_NUMBER);
+        int phoneNum = cursor.getInt(phoneColumn);
+        String result = "";
+        if (phoneNum > 0) {
+            // 获得联系人的ID号
+            int idColumn = cursor.getColumnIndex(ContactsContract.Contacts._ID);
+            String contactId = cursor.getString(idColumn);
+            // 获得联系人电话的cursor
+            Cursor phone = getContentResolver().query(
+                    ContactsContract.CommonDataKinds.Phone.CONTENT_URI, null,
+                    ContactsContract.CommonDataKinds.Phone.CONTACT_ID  + "=" + contactId, null, null);
+            if (phone.moveToFirst()) {
+                for (; !phone.isAfterLast(); phone.moveToNext()) {
+                    int index = phone.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER);
+                    int typeindex = phone.getColumnIndex(ContactsContract.CommonDataKinds.Phone.TYPE);
+                    int phone_type = phone.getInt(typeindex);
+                    String phoneNumber = phone.getString(index);
+                    result = phoneNumber;
+                    Toast.makeText(this,result,Toast.LENGTH_SHORT).show();
+//                  switch (phone_type) {//此处请看下方注释
+//                  case 2:
+//                      result = phoneNumber;
+//                      break;
+//
+//                  default:
+//                      break;
+//                  }
+                }
+                if (!phone.isClosed()) {
+                    phone.close();
+                }
+            }
+        }
+        return result;
+    }
+
 }

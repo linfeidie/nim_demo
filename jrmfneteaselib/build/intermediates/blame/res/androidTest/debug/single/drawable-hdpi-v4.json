@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/jrmf_w_rmb_white.png",
-        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jrmf_w_rmb_white.png"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/jrmf_w_rmb.png",
+        "source": "/Users/bobzheng/Downloads/carpool_android 2/jrmfneteaselib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jrmf_w_rmb.png"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/jrmf_w_rmb.png",
-        "source": "/Users/bobzheng/Downloads/nim_demo/jrmfneteaselib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jrmf_w_rmb.png"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/jrmfneteaselib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/jrmf_w_rmb_white.png",
+        "source": "/Users/bobzheng/Downloads/carpool_android 2/jrmfneteaselib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jrmf_w_rmb_white.png"
     }
 ]

@@ -1,0 +1,14 @@
+package com.netease.nim.uikit.business.team.activity;
+
+/**
+ * Created by wangfei on 16/7/12.
+ */
+public class Defaultcontent {
+   public static String url = "https://wsq.umeng.com/";
+    public static String text = "友盟微社区sdk，多终端一社区，为您的app添加社区就是这么简单";
+    public static String title = "友盟微社区";
+    public static String imageurl = "http://dev.umeng.com/images/tab2_1.png";
+    public static String videourl = "http://video.sina.com.cn/p/sports/cba/v/2013-10-22/144463050817.html";
+    public static String musicurl = "http://music.huoxing.com/upload/20130330/1364651263157_1085.mp3";
+    public static String carpool_down = "http://android.myapp.com/myapp/search.htm?kw=%E6%BA%A2%E8%B5%B7%E6%8B%BC%E8%BD%A6";
+}

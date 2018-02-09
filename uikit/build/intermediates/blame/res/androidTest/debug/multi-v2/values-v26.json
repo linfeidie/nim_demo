@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/values-v26/values-v26.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,299",
-                        "endLines": "5,6",
-                        "endColumns": "12,96",
-                        "endOffsets": "294,391"
-                    },
-                    "to": {
-                        "startLines": "16,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "896,1233",
-                        "endLines": "19,21",
-                        "endColumns": "12,96",
-                        "endOffsets": "1135,1325"
-                    }
-                },
-                {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/values-v26/values-v26.xml",
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -39,34 +20,34 @@
                         "endLines": "2,3,7,11,15,20",
                         "endColumns": "74,86,12,12,12,92",
                         "endOffsets": "125,212,426,652,891,1228"
+                    }
+                },
+                {
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,299",
+                        "endLines": "5,6",
+                        "endColumns": "12,96",
+                        "endOffsets": "294,391"
+                    },
+                    "to": {
+                        "startLines": "16,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "896,1233",
+                        "endLines": "19,21",
+                        "endColumns": "12,96",
+                        "endOffsets": "1135,1325"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/values-v26/values-v26.xml",
+            "outputFile": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/values-v26/values-v26.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,299",
-                        "endLines": "5,6",
-                        "endColumns": "12,96",
-                        "endOffsets": "294,391"
-                    },
-                    "to": {
-                        "startLines": "16,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "896,1233",
-                        "endLines": "19,21",
-                        "endColumns": "12,96",
-                        "endOffsets": "1135,1325"
-                    }
-                },
-                {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/values-v26/values-v26.xml",
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -82,6 +63,25 @@
                         "endLines": "2,3,7,11,15,20",
                         "endColumns": "74,86,12,12,12,92",
                         "endOffsets": "125,212,426,652,891,1228"
+                    }
+                },
+                {
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,299",
+                        "endLines": "5,6",
+                        "endColumns": "12,96",
+                        "endOffsets": "294,391"
+                    },
+                    "to": {
+                        "startLines": "16,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "896,1233",
+                        "endLines": "19,21",
+                        "endColumns": "12,96",
+                        "endOffsets": "1135,1325"
                     }
                 }
             ]

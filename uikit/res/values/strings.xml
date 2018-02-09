@@ -17,7 +17,7 @@
     <string name="close">关闭</string>
     <string name="menu">菜单</string>
     <string name="now_allow_space">不能含有空格</string>
-    <string name="readed">已读</string>
+    <string name="hasRead">已读</string>
 
     <!-- session -->
     <string name="input_panel_photo">图 片</string>
@@ -224,5 +224,12 @@
     <string name="fts_prefix_hit">前缀匹配高亮检索结果</string>
     <string name="msg_search">全文检索</string>
     <string name="msg_search_limit">全文检索显示条数</string>
+
+    <string name="fackbook_invite">fackbook邀请</string>
+    <string name="wechat_invite">微信邀请</string>
+    <string name="address_list_input">通讯录导入</string>
+    <string name="select_contacts">选择联系人</string>
+    <string name="invite_team_members">邀请群成员</string>
+    <string name="facebook_app_id">951491568333695</string>
 
 </resources>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/uikit/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a0f20fd40120fe63c968ff0d26cc5fe2/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/uikit/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/542cf8f6b5db5a74fc3dad6d755c718c/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

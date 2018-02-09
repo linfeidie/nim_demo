@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="video_effect">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/demo/libs/video_effect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/carpool/libs/video_effect.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

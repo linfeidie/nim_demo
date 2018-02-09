@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/switch_thumb_material_dark.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_search_url_text.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/dsb_track_color_list.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/2d086c6fd7cd05846cd30d8b9f8e54e0/res/color/dsb_track_color_list.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/dsb_track_color_list.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/3ecdc7b2f049d3735a9ed81e55c5a358/res/color/dsb_track_color_list.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_tint_edittext.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_default.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_tint_default.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/dsb_progress_color_list.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/3ecdc7b2f049d3735a9ed81e55c5a358/res/color/dsb_progress_color_list.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/dsb_progress_color_list.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/2d086c6fd7cd05846cd30d8b9f8e54e0/res/color/dsb_progress_color_list.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_primary_text_material_dark.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_tint_spinner.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_default.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_tint_switch_track.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/dsb_ripple_color_list.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/2d086c6fd7cd05846cd30d8b9f8e54e0/res/color/dsb_ripple_color_list.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/dsb_ripple_color_list.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/3ecdc7b2f049d3735a9ed81e55c5a358/res/color/dsb_ripple_color_list.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_btn_colored_text_material.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/color/abc_hint_foreground_material_light.xml"
     }
 ]

@@ -1,3 +1,0 @@
-# view AndroidManifest.xml #generated:84
--keep class com.netease.nim.demo.NimApplication { <init>(...); }
-

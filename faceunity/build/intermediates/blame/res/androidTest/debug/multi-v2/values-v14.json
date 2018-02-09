@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/values-v14/values-v14.xml",
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "/Users/bobzheng/Downloads/nim_demo/faceunity/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml",
+            "outputFile": "/Users/bobzheng/Downloads/carpool_android 2/faceunity/build/intermediates/res/merged/androidTest/debug/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/02f0efee374d6563bdaf14219f253b44/res/values-v14/values-v14.xml",
+                    "source": "/Users/bobzheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4061b565f210db5ee8595e17fd8c1bb5/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",

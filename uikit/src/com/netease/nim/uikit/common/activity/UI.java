@@ -1,7 +1,9 @@
 package com.netease.nim.uikit.common.activity;
 
 import android.annotation.TargetApi;
+import android.app.Dialog;
 import android.content.Context;
+import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -77,6 +79,8 @@ public abstract class UI extends AppCompatActivity {
 
     public void setToolBar(int toolBarId, ToolBarOptions options) {
         toolbar = (Toolbar) findViewById(toolBarId);
+        toolbar.setSubtitleTextColor(Color.WHITE);//ZJ
+        toolbar.setTitleTextColor(Color.WHITE);//ZJ
         if (options.titleId != 0) {
             toolbar.setTitle(options.titleId);
         }
@@ -301,6 +305,11 @@ public abstract class UI extends AppCompatActivity {
 
     protected <T extends View> T findView(int resId) {
         return (T) (findViewById(resId));
+    }
+    protected  void dismissDialog(Dialog dialog){
+        if (dialog!=null && dialog.isShowing()){
+            dialog.dismiss();
+        }
     }
 
 }
